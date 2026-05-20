@@ -1,0 +1,10 @@
+# Ignorar scripts e códigos
+*.py
+*.mp3
+*.txt
+__pycache__/
+profile/
+
+# Ignorar logs e outros arquivos inúteis
+*.log
+*.DS_Store
